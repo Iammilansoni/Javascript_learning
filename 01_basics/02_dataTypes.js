@@ -4,4 +4,4 @@
 
 console.log(3+3) //code redeability should be high it's a correct way 
 
-console.log("Milan");
+console.log("Milan"); //
